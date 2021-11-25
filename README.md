@@ -8,6 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Este es un cambio introducido desde GitHub
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos desde GitHub
 
 
